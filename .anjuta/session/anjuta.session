@@ -1,0 +1,27 @@
+[Anjuta]
+Maximized=1
+Geometry=1920x1032+0+28
+
+[File Loader]
+Files=../../power-icon/src/mpd-power-icon.c#175%%%../../src/mpd-battery-device.c#145%%%../../power-icon/tests/test-brightness-keys.c#64%%%../../src/mpd-storage-device-tile.c#243%%%../../Makefile.am#1%%%../../src/Makefile.am#19%%%../../configure.ac#78
+
+[Document Manager]
+bookmarks=<?xml version="1.0" encoding="UTF-8"?>\n<bookmarks/>\n
+
+[Execution]
+Run in terminal=2
+Working directories=../../../meego-panel-devices-0.2.9
+
+[Project Manager]
+Shortcut=meego-panel-devices-0.2.9//egg-console-kit//libegg-console-kit.la%%%meego-panel-devices-0.2.9//src//$(NULL)%%%meego-panel-devices-0.2.9//gpm//libgpm.la%%%meego-panel-devices-0.2.9//gvc//libgvc.la%%%meego-panel-devices-0.2.9//power-icon//src//meego-power-icon%%%meego-panel-devices-0.2.9//power-icon//tests//test-battery-notification%%%meego-panel-devices-0.2.9//power-icon//tests//test-brightness-keys%%%meego-panel-devices-0.2.9//power-icon//tests//test-idle-manager%%%meego-panel-devices-0.2.9//power-icon//tests//test-shutdown-notification%%%meego-panel-devices-0.2.9//power-icon//tests//test-xbacklight%%%meego-panel-devices-0.2.9//src//meego-panel-devices%%%meego-panel-devices-0.2.9//tests//test-battery-device%%%meego-panel-devices-0.2.9//tests//test-battery-icon%%%meego-panel-devices-0.2.9//tests//test-conf%%%meego-panel-devices-0.2.9//tests//test-display-device%%%meego-panel-devices-0.2.9//tests//test-disk-tile%%%meego-panel-devices-0.2.9//tests//test-folder-button%%%meego-panel-devices-0.2.9//tests//test-folder-tile%%%meego-panel-devices-0.2.9//tests//test-storage-device%%%meego-panel-devices-0.2.9//tests//test-storage-device-tile
+
+[Build]
+Configuration list=1:Default:%%%1:Debug:Debug%%%1:Profiling:Profiling%%%1:Optimized:Optimized
+Selected Configuration=Default
+BuildArgs/Default=--enable-maintainer-mode
+BuildArgs/Debug=--enable-maintainer-mode 'CFLAGS=-g -O0' 'CXXFLAGS=-g -O0' 'JFLAGS=-g -O0' 'FFLAGS=-g -O0'
+BuildArgs/Profiling=--enable-maintainer-mode 'CFLAGS=-g -pg' 'CXXFLAGS=-g -pg' 'JFLAGS=-g -pg' 'FFLAGS=-g -pg'
+BuildArgs/Optimized=--enable-maintainer-mode 'CFLAGS=-O2' 'CXXFLAGS=-O2' 'JFLAGS=-O2' 'FFLAGS=-O2'
+
+[Debugger]
+Stop at beginning=2
