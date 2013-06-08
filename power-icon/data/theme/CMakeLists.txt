@@ -9,7 +9,7 @@ SET(THEME_SRCS
 	battery-plugged.png 
     )
 
-INSTALL(FILES ${THEME_SRCS} DESTINATION ${PKG_DATADIR}/gogoo-panel-web/theme)
+INSTALL(FILES ${THEME_SRCS} DESTINATION ${PKG_DATADIR}/gogoo-panel-devices/theme/power-icon)
 
 
 
