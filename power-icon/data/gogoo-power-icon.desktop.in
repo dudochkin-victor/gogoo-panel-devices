@@ -2,8 +2,8 @@
 Version=1.0
 Type=Application
 Encoding=UTF-8
-TryExec=@LIBEXECDIR@/meego-power-icon
-Exec=@LIBEXECDIR@/meego-power-icon
+TryExec=@PKG_LIBEXECDIR@/gogoo-power-icon
+Exec=@PKG_LIBEXECDIR@/gogoo-power-icon
 Icon=meego-power-icon
 Terminal=false
 Categories=

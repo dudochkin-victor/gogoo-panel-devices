@@ -2,8 +2,8 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Exec=@LIBEXECDIR@/meego-panel-devices
-TryExec=@LIBEXECDIR@/meego-panel-devices
+Exec=@PKG_LIBEXECDIR@/gogoo-panel-devices
+TryExec=@PKG_LIBEXECDIR@/gogoo-panel-devices
 _Name=devices
 Icon=meego-panel-devices
 _Comment=Devices panel

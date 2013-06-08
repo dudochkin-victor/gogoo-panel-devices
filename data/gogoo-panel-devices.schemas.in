@@ -4,7 +4,7 @@
     <schema>
       <key>/schemas/desktop/meego/panel-devices/brightness_enabled</key>
       <applyto>/desktop/meego/panel-devices/brightness_enabled</applyto>
-      <owner>meego-panel-devices</owner>
+      <owner>gogoo-panel-devices</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -14,7 +14,7 @@
     <schema>
       <key>/schemas/desktop/meego/panel-devices/brightness_value</key>
       <applyto>/desktop/meego/panel-devices/brightness_value</applyto>
-      <owner>meego-panel-devices</owner>
+      <owner>gogoo-panel-devices</owner>
       <type>float</type>
       <default>1.0</default>
       <locale name="C">
@@ -24,7 +24,7 @@
     <schema>
       <key>/schemas/desktop/meego/panel-devices/brightness_value_battery</key>
       <applyto>/desktop/meego/panel-devices/brightness_value_battery</applyto>
-      <owner>meego-panel-devices</owner>
+      <owner>gogoo-panel-devices</owner>
       <type>float</type>
       <default>0.75</default>
       <locale name="C">
@@ -34,7 +34,7 @@
     <schema>
       <key>/schemas/desktop/meego/panel-devices/buttons/lid</key>
       <applyto>/desktop/meego/panel-devices/buttons/lid</applyto>
-      <owner>meego-panel-devices</owner>
+      <owner>gogoo-panel-devices</owner>
       <type>string</type>
       <default>suspend</default>
       <locale name="C">
@@ -44,7 +44,7 @@
     <schema>
       <key>/schemas/desktop/meego/panel-devices/timeout/sleep_computer</key>
       <applyto>/desktop/meego/panel-devices/timeout/sleep_computer</applyto>
-      <owner>meego-panel-devices</owner>
+      <owner>gogoo-panel-devices</owner>
       <type>int</type>
       <default>300</default>
       <locale name="C">
