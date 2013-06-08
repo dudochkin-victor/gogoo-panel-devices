@@ -26,7 +26,6 @@
 #include "mpd-devices-pane.h"
 #include "mpd-shell.h"
 #include "mpd-shell-defines.h"
-#include "config.h"
 
 G_DEFINE_TYPE (MpdShell, mpd_shell, MX_TYPE_BOX_LAYOUT)
 

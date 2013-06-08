@@ -26,7 +26,6 @@
 #include "mpd-folder-button.h"
 #include "mpd-folder-tile.h"
 #include "mpd-shell-defines.h"
-#include "config.h"
 
 G_DEFINE_TYPE (MpdFolderTile, mpd_folder_tile, MX_TYPE_FRAME)
 

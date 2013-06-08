@@ -35,7 +35,6 @@
 #include "mpd-lid-device.h"
 #include "mpd-power-icon.h"
 #include "mpd-shutdown-notification.h"
-#include "config.h"
 
 G_DEFINE_TYPE (MpdPowerIcon, mpd_power_icon, G_TYPE_OBJECT)
 

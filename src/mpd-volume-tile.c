@@ -29,7 +29,6 @@
 #include "mpd-shell-defines.h"
 #include "mpd-text.h"
 #include "mpd-volume-tile.h"
-#include "config.h"
 
 #define MIXER_CONTROL_NAME "MeeGo Panel Devices"
 #define VOLUME_CHANGED_EVENT "audio-volume-change"

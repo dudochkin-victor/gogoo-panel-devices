@@ -26,7 +26,6 @@
 #include "mpd-battery-tile.h"
 #include "mpd-gobject.h"
 #include "mpd-shell-defines.h"
-#include "config.h"
 
 G_DEFINE_TYPE (MpdBatteryTile, mpd_battery_tile, MX_TYPE_TABLE)
 

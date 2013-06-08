@@ -21,7 +21,6 @@
 #include <stdbool.h>
 
 #include "mpd-folder-button.h"
-#include "config.h"
 
 /* Overriding the button's "label" property. */
 

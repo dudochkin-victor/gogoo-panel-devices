@@ -29,7 +29,6 @@
 #include "mpd-disk-tile.h"
 #include "mpd-shell-defines.h"
 #include "mpd-volume-tile.h"
-#include "config.h"
 
 G_DEFINE_TYPE (MpdComputerTile, mpd_computer_tile, MX_TYPE_BOX_LAYOUT)
 

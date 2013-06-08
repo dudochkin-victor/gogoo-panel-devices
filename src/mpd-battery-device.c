@@ -23,7 +23,6 @@
 
 #include "mpd-battery-device.h"
 #include "mpd-gobject.h"
-#include "config.h"
 
 G_DEFINE_TYPE (MpdBatteryDevice, mpd_battery_device, G_TYPE_OBJECT)
 

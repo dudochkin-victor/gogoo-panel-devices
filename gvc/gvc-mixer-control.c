@@ -20,8 +20,6 @@
  *
  */
 
-#include "config.h"
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
@@ -1788,7 +1786,7 @@ gvc_mixer_new_pa_context (GvcMixerControl *self)
                           "multimedia-volume-control");
         pa_proplist_sets (proplist,
                           PA_PROP_APPLICATION_VERSION,
-                          PACKAGE_VERSION);
+                          PKG_VERSION);
 
         self->priv->pa_context = pa_context_new_with_proplist (self->priv->pa_api, NULL, proplist);
 

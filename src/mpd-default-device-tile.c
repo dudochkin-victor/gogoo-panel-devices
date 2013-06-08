@@ -24,7 +24,6 @@
 
 #include "mpd-default-device-tile.h"
 #include "mpd-shell-defines.h"
-#include "config.h"
 
 G_DEFINE_TYPE (MpdDefaultDeviceTile, mpd_default_device_tile, MX_TYPE_BOX_LAYOUT)
 

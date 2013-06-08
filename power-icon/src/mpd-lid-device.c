@@ -22,7 +22,6 @@
 
 #include "mpd-gobject.h"
 #include "mpd-lid-device.h"
-#include "config.h"
 
 static void
 mpd_lid_device_set_closed (MpdLidDevice *self,

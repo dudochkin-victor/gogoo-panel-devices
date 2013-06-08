@@ -28,7 +28,6 @@
 #include "mpd-conf.h"
 #include "mpd-gobject.h"
 #include "mpd-idle-manager.h"
-#include "config.h"
 
 G_DEFINE_TYPE (MpdIdleManager, mpd_idle_manager, G_TYPE_OBJECT)
 

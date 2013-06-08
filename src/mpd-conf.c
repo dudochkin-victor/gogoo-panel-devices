@@ -24,7 +24,6 @@
 
 #include "mpd-conf.h"
 #include "mpd-gobject.h"
-#include "config.h"
 
 G_DEFINE_TYPE (MpdConf, mpd_conf, G_TYPE_OBJECT)
 

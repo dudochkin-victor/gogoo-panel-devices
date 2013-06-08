@@ -32,7 +32,6 @@
 #include "mpd-panel.h"
 #include "mpd-shell.h"
 #include "mpd-shell-defines.h"
-#include "config.h"
 
 static void
 _shell_request_hide_cb (MpdShell        *shell,

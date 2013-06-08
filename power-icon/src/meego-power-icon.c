@@ -29,7 +29,6 @@
 #include <libnotify/notify.h>
 
 #include "mpd-power-icon.h"
-#include "config.h"
 
 int
 main (int    argc,

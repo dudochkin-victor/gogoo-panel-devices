@@ -30,7 +30,6 @@
 #include "mpd-storage-device.h"
 #include "mpd-storage-device-tile.h"
 #include "mpd-text.h"
-#include "config.h"
 
 static void
 mpd_storage_device_tile_set_icon_file (MpdStorageDeviceTile  *self,

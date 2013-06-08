@@ -27,7 +27,6 @@
 #include "mpd-gobject.h"
 #include "mpd-shell-defines.h"
 #include "mpd-storage-device.h"
-#include "config.h"
 
 G_DEFINE_TYPE (MpdDiskTile, mpd_disk_tile, MX_TYPE_BOX_LAYOUT)
 

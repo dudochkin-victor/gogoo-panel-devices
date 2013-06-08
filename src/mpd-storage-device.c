@@ -27,7 +27,6 @@
 
 #include "mpd-gobject.h"
 #include "mpd-storage-device.h"
-#include "config.h"
 
 static void
 mpd_storage_device_set_size (MpdStorageDevice *self,

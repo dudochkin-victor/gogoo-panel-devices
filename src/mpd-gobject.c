@@ -19,7 +19,6 @@
  */
 
 #include "mpd-gobject.h"
-#include "config.h"
 
 /*
  * Disconnect signal handlers from object to self, unref object and NULL it.

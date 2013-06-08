@@ -30,7 +30,6 @@
 #include "mpd-gobject.h"
 #include "mpd-shell-defines.h"
 #include "mpd-storage-device-tile.h"
-#include "config.h"
 
 G_DEFINE_TYPE (MpdDevicesTile, mpd_devices_tile, MX_TYPE_SCROLL_VIEW)
 
